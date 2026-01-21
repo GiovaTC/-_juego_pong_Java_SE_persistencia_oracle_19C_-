@@ -3,6 +3,8 @@ Juego Pong en Java SE con Persistencia en Oracle 19c .
 
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1152d3b5-7c9d-4e20-8c98-04f138c66ad3" />            
 
+<img width="2548" height="1079" alt="image" src="https://github.com/user-attachments/assets/5b0fbc33-e8e3-4d6d-88ef-639e670dae65" />            
+
 <img width="2543" height="1077" alt="image" src="https://github.com/user-attachments/assets/7a1bcbcc-958b-437c-9f42-11e15d15271f" />            
 
 A continuación presento una solución completa, profesional y ejecutable para un juego tipo Pong en Java, desarrollada para IntelliJ IDEA, que cumple con los siguientes requisitos:
